@@ -1,2 +1,3 @@
 this is my first txt file in github 
 creating an agile file
+i am studying MCA
